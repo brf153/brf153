@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thisisbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisbhandari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devaansh-bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devaansh-bhandari" height="30" width="40" /></a>
+<a href="https://twitter.com/thisisbhandari" target="blank"><img align="center" src="https://res.cloudinary.com/dofq9gh9l/image/upload/v1688027018/download_j8pjwv.png" alt="thisisbhandari" height="30" width="40" /></a>&emsp;
+<a href="https://linkedin.com/in/devaansh-bhandari" target="blank"><img align="center" src="https://res.cloudinary.com/dofq9gh9l/image/upload/v1688027018/download_1_liep6j.png" alt="devaansh-bhandari" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
