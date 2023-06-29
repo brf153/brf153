@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/brf153](https://github.com/brf153)
 
-- 💬 Ask me about **anything related to development**
+- 💬 Ask me **anything related to development**
 
 - 📫 Contact **https://www.linkedin.com/in/devaansh-bhandari/**
 
