@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](https://res.cloudinary.com/dofq9gh9l/image/upload/v1688026637/github-header-image_2_ohojg4.png)
 <h1 align="center">Hi 👋, I'm Devaansh Bhandari</h1>
 <h3 align="center">An embodiment of discipline and hard work</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dofq9gh9l/image/upload/v1687968681/programmer_p5jk8i.gif">
