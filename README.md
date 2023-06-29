@@ -40,23 +40,24 @@
   <img src="https://cdn.sanity.io/images/a0vav0yt/production/421a63b95950741faac53a3903be48ddce4e8ad7-225x225.png" alt="html5" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/a0vav0yt/production/3b88127dab6fb57e6273aa5745d400e4fa4ff138-256x256.png" alt="javascript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://cdn.sanity.io/images/a0vav0yt/production/8416580a0d94bb8ebb1cef0f2cfcb0b7df2b1bf4-225x225.png" alt="linux" width="40" height="40"/> 
   <img src="https://cdn.sanity.io/images/a0vav0yt/production/07654aed208be325e48ef6020fd55b8abf9d55fb-2200x1375.jpg" alt="mongodb" width="50" height="40"/>
   <img src="https://cdn.sanity.io/images/a0vav0yt/production/45f9c13d8049085a130ee4c3cf74fffed0d555c7-2528x1748.png" alt="ether.js" width="70" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/a0vav0yt/production/8121d5bd27bd317f3e7569cac6a692d42e7a4758-1901x2048.png" alt="nodejs" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/a0vav0yt/production/a281ea9abc245980dc6b4b65d506fe825b68bb71-920x920.png" alt="solidity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  <img src="https://cdn.sanity.io/images/a0vav0yt/production/d55e5ed234f3011f095800de528919b694f07270-1200x1170.png" alt="photoshop" width="40" height="40"/> 
+  <img src="https://cdn.sanity.io/images/a0vav0yt/production/a59f036c1e06bbc489e59ff184dfbc931e12c3e8-1920x1080.png" alt="postgresql" width="40" height="40"/>   
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/a0vav0yt/production/d606f87c7fcb5f387ca6d63071cab2f880510254-512x512.png" alt="python" width="40" height="40"/> 
+  <img src="https://cdn.sanity.io/images/a0vav0yt/production/938e7f390f595bac51e6c7b9a2b907496d01ffb8-256x256.png" alt="react" width="40" height="40"/> 
+  <img src="https://cdn.sanity.io/images/a0vav0yt/production/2bb780d2e8cb927ea10345181de06ab528a3523a-225x225.png" alt="redux" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/a0vav0yt/production/2f36ab44c5e09ac7f23027125b3f9648767155d4-800x450.png" alt="sass" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/a0vav0yt/production/5ddd766b972b47b1aae4f39a6f4c3dae81ff24d1-1024x1024.png" alt="typescript" width="40" height="40"/> 
+  <img src="https://cdn.sanity.io/images/a0vav0yt/production/48b069975c888d2bda6e740d3a877c0d6f86d9ac-800x556.jpg" alt="webpack" width="40" height="40"/>
   <img src="https://cdn.sanity.io/images/a0vav0yt/production/8ef4a5c72d76b763283f9114fe1439f5250170fd-900x400.jpg" alt="mysql" width="70" height="40"/> 
 </p>
 
