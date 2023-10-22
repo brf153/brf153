@@ -61,8 +61,8 @@
   <img src="https://cdn.sanity.io/images/a0vav0yt/production/8ef4a5c72d76b763283f9114fe1439f5250170fd-900x400.jpg" alt="mysql" width="70" height="40"/> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brf153&show_icons=true&locale=en&layout=compact" alt="brf153" /></p>
+<p><img align="left" src="https://github-readme-stats-77vu.vercel.app/api/top-langs?username=brf153&show_icons=true&locale=en&layout=compact" alt="brf153" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brf153&show_icons=true&locale=en" alt="brf153" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-77vu.vercel.app/api?username=brf153&show_icons=true&locale=en" alt="brf153" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brf153&" alt="brf153" /></p>
