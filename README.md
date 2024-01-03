@@ -13,7 +13,7 @@
 
 - 📫 Contact **https://www.linkedin.com/in/devaansh-bhandari/**
 
-- 📄 Personal Portfolio [[personal-portfolio-brf153.vercel.app](https://personal-portfolio-eta-jade-96.vercel.app/)]
+- 📄 Personal Portfolio **https://bhandari-portfolio.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
